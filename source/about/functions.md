@@ -1,4 +1,4 @@
-# XEdu的常见函数
+# XEduPro的常见函数
 
 ## XEdu.utils中的函数
 
