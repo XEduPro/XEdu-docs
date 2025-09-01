@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-OpenXLabEdu帮助文档
+XEduPro帮助文档
 =================================
-欢迎您使用OpenXLabEdu（XEdu）！
+欢迎您使用XEduPro（一套开箱即用的人工智能学习工具）！
 -----------
 .. toctree::
    :maxdepth: 2
