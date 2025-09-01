@@ -18,9 +18,9 @@
 # -- Project information -----------------------------------------------------
 import datetime
 
-project = 'OpenXLabEdu'
+project = 'XEduPro'
 copyright = u'2021-{year} OpenXLabEdu.All Rights Reserved'.format(year=datetime.datetime.now().year)
-author = 'OpenXLabEdu'
+author = 'XEduPro'
 
 
 # -- General configuration ---------------------------------------------------
