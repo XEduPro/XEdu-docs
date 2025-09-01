@@ -1,5 +1,7 @@
 # XEduPro的安装和下载
 
+为了满足广大用户的需求，XEdu安装方式分为一键安装包安装、pip安装和docker安装等，适合不同的用户群体。
+
 ## XEdu版本和安装说明
 
 ### 1.XEdu最新版本信息
@@ -18,7 +20,7 @@ BaseDeploy==0.0.4
 
 ### 2.XEdu的多种安装方式
 
-为了满足广大中小学师生的需求，XEdu安装方式分为一键安装包安装、pip安装和docker安装等，适合不同的用户群体。
+XEdu安装方式分为一键安装包安装、pip安装和docker安装等，适合不同的用户群体。
 
 - 一键安装包版。包含MMEdu、BaseML、BaseNN三个模块的基础功能，以及XEduHub、BaseDT、BaseDeploy等工具库，同时内置了一套EasyDL系列工具。EasyDL系列工具包含"EasyTrain.bat"、"EasyInference.bat"和"EasyAPI.bat"这三个可视化工具，定期更新。
 

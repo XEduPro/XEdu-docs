@@ -1,16 +1,17 @@
 # XEduPro的常见函数
 
-## XEdu.utils中的函数
-
 XEdu-python库封装了一系列数据处理函数，实现如向量相似度计算等常见功能，帮助初学者快速完成AI推理和部署。
 
+## XEdu.utils中的函数
+
+目前，“XEdu.utils”文件中封装的常见函数如下：
 
 - 归一化指数函数：softmax
 - 余弦相似度计算：cosine_similarity
 - 向量相似度比较：get_similarity
 - 相似度计算结果可视化：visualize_similarity
 
-这些函数被封装在XEdu.utils中，引入方法为：
+引入方法为：
 
 ```python
 from XEdu.utils import *
