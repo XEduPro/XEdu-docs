@@ -13,7 +13,23 @@
 
 ![](../images/about/innolab.png)
 
-### 2. OpenHydra（学校教学强推!!!）
+### 2. Mo平台（浙大智海平台）
+
+Mo平台为浙大“智海”新一代人工智能科教平台的核心组成部分，聚集了各界人工智能领域的技术专家与学者，具备全国领先的人工智能教育师资力量。2024年，Mo平台支持XEdu环境，并内置了系列免费课程。
+
+[机器学习的n个经典实验等](https://momodel.cn/classroom?p=1&tab=xedu)
+
+
+![](../images/about/mo.png)
+
+### 3. 波尔科研空间站
+
+玻尔（ Bohrium ）科研空间站为深势科技联合北京科学智能研究院（ AISI ）发布。这一以量子力学先驱尼尔斯·玻尔命名的 AI for Science 旗舰平台，被誉为“科研界的 Hugging Face”。作为全球首个覆盖“读文献-做计算-做实验-多学科协同”的AI科研平台，玻尔以全新升级的“科学导航（ Science Navigator, SN ）”为核心，从此，科学家们终于可以摆脱繁琐的信息搜索，把更多时间交给真正的科研。
+
+2025年，波尔科研空间站上线NOAI课程，采用XEdu为基础工具。
+
+
+### 4. OpenHydra（学校教学强推!!!）
 
 OpenHydra是一个适合中小学的开源人工智能教学平台。
 
@@ -68,9 +84,6 @@ ISO镜像下载地址，见[U盘模式为服务器安装ISO](https://github.com/
 3. 等待系统安装完成（系统中间提示重启的时候，需要拔下U盘后手动确认，之后就等待系统安装完成即可）
 
 视频演示见[Openhydra安装教程](https://www.bilibili.com/video/BV1LK421x7Vc/?share_source=copy_web&vd_source=ca47cf8d0af314fd89055e7dc8d5dd86)
-
-
-### 3. Mo
 
 
 
