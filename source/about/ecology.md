@@ -45,17 +45,17 @@ OpenHydra是一个适合中小学的开源人工智能教学平台。
 
 这套系统可以让一台服务器提供满足班级授课的python运行环境，同时内置了XEdu等多种预装环境，以及多套分层AI教学课程。当系统启动后，教师和学生可以登陆网页进行管理和使用。
 
-![](../images/about/oh2.png?msec=1741486143548)
+![](../images/about/oh2.png)
 
 学生登陆后，将可以启动EasyTrain、JupyterLab、VS Code等多种AI学习环境，使用浏览器即可完成Python程序运行（程序都运行在服务器系统上）。OpenHydra的强大之处在于让不同的学生可以同时使用一台服务器的资源进行计算，而这一切，仅仅基于浏览器就可以实现。
 
-![](../images/about/oh3.png?msec=1741486143568)
+![](../images/about/oh3.png)
 
-![](../images/about/oh4.png?msec=1741486143548)
+![](../images/about/oh4.png)
 
 教师可以为系统添加更多的数据集、课程、算力、用户等必要的资源，同时，也可以对资源的分配进行控制。可以配置系统为纯CPU模式，也可以指定每个学生可以拥有的内存空间大小、显存空间大小，以及学生的预装python环境。
 
-![](../images/about/oh5.png?msec=1741486143548)
+![](../images/about/oh5.png)
 
 官方B站账号：[OpenHydra](https://space.bilibili.com/3546379869751358)
 
@@ -86,18 +86,18 @@ ISO镜像下载地址，见[U盘模式为服务器安装ISO](https://github.com/
 视频演示见[Openhydra安装教程](https://www.bilibili.com/video/BV1LK421x7Vc/?share_source=copy_web&vd_source=ca47cf8d0af314fd89055e7dc8d5dd86)
 
 
-
 ## 预装XEdu的AI编程工具
 
 
 ### 1.Mind+
 
+上海DFRobot开发的青少年编程工具。
 
 ### 2.mPython
 
+深圳盛思科技开发的青少年编程工具。
 
 ## 预装XEdu的AI硬件
-
 
 ### 1.行空板
 
