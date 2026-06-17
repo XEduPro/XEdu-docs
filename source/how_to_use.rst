@@ -5,6 +5,7 @@
    :maxdepth: 2
 
    how_to_use/map.md
+   how_to_use/textbook.md
    how_to_use/support_resources.rst
    how_to_use/scitech_tools.rst
    how_to_use/courses.rst
