@@ -239,7 +239,7 @@ EasyTrain界面打开之后，选择BaseNN页面，在下拉框中指定训练�
 
 解决：EasyTrain基于Flask开发。如果在运行时出现这样的错误：
 
-``` {.powershell}
+``` bash
 
 hostname,aliases,ipaddrs = gethostbyaddr(name)InicodeDecodeError: 'utf-8' codec can't decode byte 0xdl in position 7: invalid continuation bvte。
 

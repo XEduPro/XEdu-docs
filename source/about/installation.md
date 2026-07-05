@@ -308,13 +308,13 @@ XEdu由一系列库组成，需要逐个安装。相对来说，核心工作是�
 
 点击鼠标右键，打开终端。终端中输入pip install MMEdu即可安装。
 
-```{.powershell}
+```bash
 $ pip install MMEdu
 ```
 
 注！！！为避免出现版本冲突，建议新建一个conda环境，并在新环境中执行以上命令（注：要求python\<3.9，建议使用3.8版本）。
 
-```{.powershell}
+```bash
 $ conda create -n your_env_name python=3.8
 $ conda activate your_env_name
 $ pip install MMEdu
@@ -328,13 +328,13 @@ $ pip install MMEdu
 
 在命令行中使用pip安装即可。
 
-```{.powershell}
+```bash
 $ pip install MMEdu -f https://download.openmmlab.com/mmcv/dist/cpu/torch1.8.0/index.html
 ```
 
 注！！！为避免出现版本冲突，建议新建一个conda环境，并在新环境中执行以上命令（注：要求python\<3.9）。
 
-```{.powershell}
+```bash
 $ conda create -n your_env_name python=3.8
 $ conda activate your_env_name
 $ pip install MMEdu -f https://download.openmmlab.com/mmcv/dist/cpu/torch1.8.0/index.html
@@ -379,19 +379,19 @@ pip install jupyter lab
 
 建议使用下面的指令安装cuda10.1对应的torch1.8.1，安装命令为：
 
-```{.powershell}
+```bash
 pip install torch==1.8.1+cu101 torchvision==0.9.1+cu101 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 其次，安装mmcv-full。
 
-```{.powershell}
+```bash
 pip install mmcv-full==1.4.5 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.8.0/index.html
 ```
 
 如果想要安装其他版本，可以尝试下面的指令：
 
-```{.powershell}
+```bash
 pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html
 ```
 
@@ -403,7 +403,7 @@ pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{
 
 最后安装MMEdu及其他工具。
 
-```{.powershell}
+```bash
 pip install MMEdu
 pip install jupyter lab
 ```
