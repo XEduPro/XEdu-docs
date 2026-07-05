@@ -51,6 +51,4 @@ XEduPro源自上海人工智能实验室的开源人工智能工具包XEdu。XEd
 - 魔乐社区
 - ……
 
-## 其他提示
 
-部署需要`pip install Sphinx  recommonmark sphinx-rtd-theme`

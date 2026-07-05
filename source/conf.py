@@ -20,7 +20,7 @@ import datetime
 
 project = 'XEduPro'
 copyright = u'2021-{year} XEduPro.All Rights Reserved'.format(year=datetime.datetime.now().year)
-author = 'XEduPro'
+author = 'xiezuoru'
 
 
 # -- General configuration ---------------------------------------------------
