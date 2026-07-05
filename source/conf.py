@@ -28,9 +28,7 @@ author = 'XEduPro'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark'] 
-
-# extensions = ['myst-parser']
+extensions = ['myst_parser','sphinx_markdown_tables'] 
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -74,3 +72,18 @@ latex_elements = {
         \renewcommand\CJKfamilydefault{\CJKrmdefault}
     ''',
 }
+# 启用 MyST 的 GFM 表格扩展
+myst_enable_extensions = [
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "substitution",
+    "tasklist",
+    # 开启表格
+    "table",
+]
