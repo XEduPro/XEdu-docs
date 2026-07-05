@@ -1,7 +1,13 @@
 # XEduPro的朋友圈
 
 
-学习人工智能离不开实训平台（指可以在线训练模型的平台），目前支持XEdu的AI实训平台已经越来越多。
+学习人工智能离不开实训平台（指可以在线训练模型的平台），目前支持XEdu的AI实训平台已经越来越多，使用XEdu的人工智能教材也越来越多。
+
+## 采用XEduPro的教材
+
+### 1.清华大学出版社
+
+### 2.浙江教育出版社
 
 ## 预装XEdu的AI实训平台
 
@@ -27,7 +33,6 @@ Mo平台为浙大“智海”新一代人工智能科教平台的核心组成部
 玻尔（ Bohrium ）科研空间站为深势科技联合北京科学智能研究院（ AISI ）发布。这一以量子力学先驱尼尔斯·玻尔命名的 AI for Science 旗舰平台，被誉为“科研界的 Hugging Face”。作为全球首个覆盖“读文献-做计算-做实验-多学科协同”的AI科研平台，玻尔以全新升级的“科学导航（ Science Navigator, SN ）”为核心，从此，科学家们终于可以摆脱繁琐的信息搜索，把更多时间交给真正的科研。
 
 2025年，波尔科研空间站上线NOAI课程，采用XEdu为基础工具。
-
 
 ### 4. OpenHydra（学校教学强推!!!）
 
@@ -67,24 +72,6 @@ OpenHydra是一个适合中小学的开源人工智能教学平台。
 
 最简单的安装教程参见：[U盘模式为服务器安装ISO](https://github.com/openhydra/open-hydra/blob/main/docs/iso-installation-guide.md)
 
-简单总来来说，安装只有三步：
-
-1. 烧录镜像（下载iso之后，Windows系统可以rufus进行烧录）
-
-ISO镜像下载地址，见[U盘模式为服务器安装ISO](https://github.com/openhydra/open-hydra/blob/main/docs/iso-installation-guide.md) 。
-
-视频演示见[OpenhydraUSB烧制指南](https://www.bilibili.com/video/BV1xH4y157pL/?share_source=copy_web&vd_source=ca47cf8d0af314fd89055e7dc8d5dd86) 。
-
-<iframe src="//player.bilibili.com/player.html?aid=1051549108&bvid=BV1xH4y157pL&cid=1468597565&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-2. 配置系统（将U盘插入服务器，然后配置安装设置）
-
-视频演示见[Openhydra安装教程](https://www.bilibili.com/video/BV1LK421x7Vc/?share_source=copy_web&vd_source=ca47cf8d0af314fd89055e7dc8d5dd86)
-
-3. 等待系统安装完成（系统中间提示重启的时候，需要拔下U盘后手动确认，之后就等待系统安装完成即可）
-
-视频演示见[Openhydra安装教程](https://www.bilibili.com/video/BV1LK421x7Vc/?share_source=copy_web&vd_source=ca47cf8d0af314fd89055e7dc8d5dd86)
-
 
 ## 预装XEdu的AI编程工具
 
@@ -97,13 +84,15 @@ ISO镜像下载地址，见[U盘模式为服务器安装ISO](https://github.com/
 
 深圳盛思科技开发的青少年编程工具。
 
-## 预装XEdu的AI硬件
+## 预装XEduHub的AI硬件
 
 ### 1.行空板
 
+上海DFRobot开发的可编程硬件。
+
 ### 2.灵芯板
 
-
+中鸣开发的可编程硬件。
 
 
 
