@@ -245,7 +245,8 @@ response.close()
 
 此外我们还做了一辆能在驾驶过程中自动跟踪手掌并做出相应运动的小车。
 
-![](../images/xeduhub/followhandcar.gif)
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116866278294488&bvid=BV1CpTy6DEfu&cid=39671562304&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 功能描述：一辆能自动跟随手掌，并跟手掌保持一定距离的小车。
 
